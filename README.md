@@ -13,7 +13,7 @@ them. The bar is "would this help someone outside our environment?"
 
 | Solution | Summary | Tags | Gist | Updated |
 |----------|---------|------|------|---------|
-| Two Claude Max accounts on macOS | Run Claude Code on macOS authenticated as two paid accounts simultaneously, with per-account billing isolation via `CLAUDE_CONFIG_DIR`. Combined weekly capacity, separate `/usage` meters, reproducible setup. | claude-code, macOS, dual-account, billing-isolation | [gist](https://gist.github.com/NovoAcuity/e11d4fbfaf2eb1aa3fe26ed56c7c937d) | 260513 — Initial publication |
+| Use two Claude accounts simultaneously on macOS | Run Claude Code on macOS authenticated as two paid accounts simultaneously, with per-account billing isolation via `CLAUDE_CONFIG_DIR`. Combined weekly capacity, separate `/usage` meters, reproducible setup. | claude-code, macOS, dual-account, billing-isolation | [gist](https://gist.github.com/NovoAcuity/e11d4fbfaf2eb1aa3fe26ed56c7c937d) | 260514 — Revised 00-README and solution name |
 
 ---
 
