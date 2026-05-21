@@ -13,7 +13,7 @@ them. The bar is "would this help someone outside our environment?"
 
 | Solution | Summary | Tags | Gist | Updated |
 |----------|---------|------|------|---------|
-| Use two Claude accounts simultaneously on macOS | Run Claude Code on macOS authenticated as two paid accounts simultaneously, with per-account billing isolation via `CLAUDE_CONFIG_DIR`. Combined weekly capacity, separate `/usage` meters, reproducible setup. | claude-code, macOS, dual-account, billing-isolation | [gist](https://gist.github.com/NovoAcuity/e11d4fbfaf2eb1aa3fe26ed56c7c937d) | 260518 — Phase 29 script hygiene amendments (claude2 v2 with --check + curl-transport-failure handling; setup-acct2 v2 with D-02 preserve-on-reconcile + WR-01 tempfile-leak closure + 999.118 anti-corruption guidance) |
+| Use two Claude accounts simultaneously on macOS | Run Claude Code on macOS authenticated as two paid accounts simultaneously, with per-account billing isolation via `CLAUDE_CONFIG_DIR`. Combined weekly capacity, separate `/usage` meters, reproducible setup. | claude-code, macOS, dual-account, billing-isolation | [gist](https://gist.github.com/NovoAcuity/e11d4fbfaf2eb1aa3fe26ed56c7c937d) | 260520 — Public-surface streamlining: comment hygiene + internal-reference scrub + CTO_ROOT→REPO_ROOT rename; no behavioral changes |
 
 ---
 
