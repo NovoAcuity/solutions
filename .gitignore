@@ -1,0 +1,5 @@
+# Local git worktrees created via using-git-worktrees skill (project-local convention)
+.worktrees/
+
+# Local marker for first-deploy security scan (lint-gate.sh; Phase 14.1)
+.ci-cd-deployed
