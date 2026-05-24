@@ -17,5 +17,4 @@ them. The bar is "would this help someone outside our environment?"
 
 ---
 
-Solutions are curated; not every issue ships as a published solution,
-but we read each one.
+Solutions are curated; not every issue ships as a published solution.
