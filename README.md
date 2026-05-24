@@ -17,6 +17,5 @@ them. The bar is "would this help someone outside our environment?"
 
 ---
 
-Want to suggest a solution or report a problem? Open an issue against this
-repo. Solutions are curated; not every issue ships as a published solution,
+Solutions are curated; not every issue ships as a published solution,
 but we read each one.
